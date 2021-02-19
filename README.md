@@ -1,1 +1,1 @@
-# Aprendizaje-M-quina
+# Image compression using PCA
